@@ -8,4 +8,4 @@ I plan to turn this program into a data visualization of the states, and eventua
 
 I built the CLI to practice Ruby, as soon as I learned about the Nokogiri gem, which lets you parse HTML/XML. The program takes advantage of the Chronicling America API, which lets you access a database of hundreds of thousands of digitized newspapers from all 50 states. The API delivers OCR'd results, aka results of universities/libraries trying to turn image files of archival newspapers into machine readable text, and since the OCR is sometimes very faulty, the sentences sometimes don't exactly match what you'd see on the actual newspaper. The program's output is, after all, only as strong as its input, and OCR is far from perfect. That said, for each search result, I include a link to the actual digitized image of the newspaper, so you can investigate further. 
 
-See the image files screenshot 1.1, screenshot 2.1, and screenshot 3.1 for some examples of the CLI at work. 
+See the image files screenshot 1, screenshot 2, and screenshot 3 for some examples of the CLI at work. 
